@@ -44,5 +44,7 @@ Install Flask with pip
   venv\Script\activate
   python main.py
 ```
-    
+    # Screenshots
+**Nodes in the neo4j graph DB
+![](db.jpg)
 
