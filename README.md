@@ -33,7 +33,7 @@ This is a simple RESTful API written with Flask python framework and neo4j graph
 
 **Client:** Postman
 
-**Server:** Python, FLask
+**Server:** Python, FLask, neo4j
 
 
 ## Installation
