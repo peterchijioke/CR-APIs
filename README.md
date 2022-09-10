@@ -29,4 +29,11 @@ This is a simple RESTful API written with Flask python framework and neo4j graph
 | `name` | `string` | **Required**. User's Name |
 
 
+## Tech Stack
+
+**Client:** Postman
+
+**Server:** Python, FLask
+
+
 
