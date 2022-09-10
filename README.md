@@ -45,6 +45,9 @@ Install Flask with pip
   python main.py
 ```
     # Screenshots
-**Nodes in the neo4j graph DB
-![](db.jpg)
+**Nodes in the neo4j graph DB**
+![](db.JPG)
+
+** source Code**
+![](code.JPG)
 
