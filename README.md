@@ -36,4 +36,13 @@ This is a simple RESTful API written with Flask python framework and neo4j graph
 **Server:** Python, FLask
 
 
+## Installation
+
+Install Flask with pip
+
+```bash
+  venv\Script\activate
+  python main.py
+```
+    
 
